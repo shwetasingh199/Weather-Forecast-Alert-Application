@@ -146,7 +146,8 @@ The application fetches real-time weather data using the Open-Meteo API.
 - Smart Alerts
 
 <p align="center">
-  <img src="images/dashboard.png" width="850"/>
+  <img width="1871" height="826" alt="Screenshot 2026-05-09 195840" src="https://github.com/user-attachments/assets/429c4c03-6fad-460f-9196-97a8c8698f22" />
+
 </p>
 
 ---
@@ -163,7 +164,8 @@ The simulation dashboard uses a custom CSV dataset to simulate:
 This helps demonstrate the alert engine even when real APIs don't predict extreme weather.
 
 <p align="center">
-  <img src="images/simulation_dashboard.png" width="850"/>
+  <img width="1872" height="892" alt="Screenshot 2026-05-09 195906" src="https://github.com/user-attachments/assets/6bce7c0d-93a5-463a-9959-ea21b4a577c6" />
+
 </p>
 
 ---
@@ -179,7 +181,8 @@ The application generates alerts when thresholds are crossed.
 - 💨 Wind Alert
 
 <p align="center">
-  <img src="images/alerts.png" width="750"/>
+  <img width="1541" height="868" alt="Screenshot 2026-05-09 203356" src="https://github.com/user-attachments/assets/5be9fc8f-714f-45c5-85e7-5512ba7279d6" />
+
 </p>
 
 ---
@@ -188,13 +191,15 @@ The application generates alerts when thresholds are crossed.
 
 Interactive charts are generated for:
 
-- Temperature Trends
-- Humidity Trends
-- Rain Forecast
-- Weather Analytics
+- Temperature Trend of live API dashboard
+<p align="center">
+  <img width="1828" height="877" alt="Screenshot 2026-05-09 195850" src="https://github.com/user-attachments/assets/87aaf634-3e62-4f38-9062-3897e956facf" />
+
+- Temperature Trend of simulation dashboard
 
 <p align="center">
-  <img src="images/charts.png" width="850"/>
+  <img width="1897" height="862" alt="Screenshot 2026-05-09 195922" src="https://github.com/user-attachments/assets/a89572bf-c766-4f19-9232-ff8c00afbdc3" />
+
 </p>
 
 ---
