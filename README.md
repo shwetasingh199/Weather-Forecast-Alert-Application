@@ -1,9 +1,5 @@
 # 🌦 Weather Forecast & Alert Application
 
-<p align="center">
-  <img width="1871" height="826" alt="Screenshot 2026-05-09 195840" src="https://github.com/user-attachments/assets/7cd46f1f-ed50-44e0-a270-46ffb097a3f6" />
-
-</p>
 
 ## 📌 Project Overview
 
